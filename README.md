@@ -1,6 +1,8 @@
 # twopartm
 Two-part models Use twopartm (tpm) With (In) R Software
 
+https://www.youtube.com/watch?v=xnt5BCD2_vI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
